@@ -1,5 +1,5 @@
 module.exports = {
-  prefix: "!",
+  prefix: "$",
   status: {
     		name: "your tickets!",
     		type: "watching"
